@@ -24,7 +24,6 @@ This repository contains AI-powered tools for automated solar panel health asses
 - **Performance Impact**: Quantifies energy loss due to soiling accumulation
 - **Cleaning Prioritization**: Data-driven maintenance scheduling recommendations
 - **ROI Analysis**: Cost-benefit calculations for cleaning operations
-![Thermal Detection Example](assets/soiling_result.png)
 
 
 
