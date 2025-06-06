@@ -15,6 +15,8 @@ This repository contains AI-powered tools for automated solar panel health asses
 - **String Reverse Polarity**: Detects electrical wiring problems affecting string performance
 - **Diode Failure**: Identifies bypass diode malfunctions and component failures
 - **GPS Integration**: Precise defect localization with coordinate mapping
+- ![Thermal Detection Example](assets/DJI_20250128154954_0030_T_balanced.jpg)
+
 
 ### 🧹 Soiling Assessment
 - **Multi-level Classification**: Clean, medium soiled, and fully soiled panel detection
