@@ -1,4 +1,4 @@
-# evaluating-the-images-dataset-and-knowing-the-best-threshold-for-each-class
+# Evaluating-the-images-dataset-and-knowing-the-best-threshold-for-each-class
 
 # Solar Panel AI Inspection System
 
